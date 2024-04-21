@@ -6,8 +6,10 @@ package task1.Buttons;
 
 /**
  *
- * @author faiqa
+ * @author laiba
  */
 public class Button {
-    
+    public interface Button {
+    void render();
+    void onClick();
 }
