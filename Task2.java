@@ -6,7 +6,7 @@ package Task2;
 
 /**
  *
- * @author faiqa
+ * @author laiba
  */
 public class Task {
     interface IPerson {
